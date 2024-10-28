@@ -1,0 +1,1 @@
+This repositories contains some calculus labs i've done on MCMC, quadrature, proximal methods and practical usage of Poisson Point processes. Some labs are in French
